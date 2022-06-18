@@ -1,0 +1,1 @@
+-keep class com.mikepenz.hmm_icon_font_typeface_library.MMXIconFont { *; }
