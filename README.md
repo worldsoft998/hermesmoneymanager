@@ -7,16 +7,16 @@ Dev [![Build Status](https://travis-ci.org/hermesmoneymanager/hmm.svg?branch=dev
 Stable [![Build Status](https://travis-ci.org/hermesmoneymanager/hmm.svg?branch=master)](https://travis-ci.org/hermesmoneymanager/hmm)
 
 
-#### Title: Hermes Moneymanager for Android
+# Title: Hermes Moneymanager for Android
 
 
-#### Short Description
+# Short Description
 
 Manage your income and expenses on a mobile device, synchronize via cloud
 
 
 
-#### Basic information
+# Basic information
 
 Hermes Moneymanager for Android is a mobile companion to PC/desktop personal finance applications currently available for Windows, Mac OSX and LINUX. It can be used with the same database used by Hermes Moneymanager Desktop, or as an addition to GnuCash or other applications that import transactions via .qif files.
 
@@ -24,7 +24,7 @@ It maintains the best features of its sisters' Desktop applications, while addin
 
 
 
-#### What is done 
+# What is done 
 
 * Management of single transactions
 * Account, payee, category, currency management
@@ -36,7 +36,7 @@ It maintains the best features of its sisters' Desktop applications, while addin
 * Different languages ​​supported. 
 
 
-#### Full Description
+# Full Description
 
 <b>Hermes Moneymanager</b> is a free, Open Source, cross-platform, easy-to-use personal finance software. It primarily helps organize one's finances and keeps track of where, when and how the money flows. It is a great tool to get a bird's eye view of your financial worth.
 
@@ -53,11 +53,11 @@ Think of Hermes Moneymanager and <strong><a href="Home">Hermes Moneymanager for 
 
 
 
-☆ <b>ACCOUNTS AND CURRENCIES</b>
+##☆ <b>ACCOUNTS AND CURRENCIES</b>
 Wizard to simplify creation of accounts and start using hmm for Android. You have the flexibility of creating accounts in any of the multiple currencies available.
 
 
-## <a name="Accounts"></a>Accounts
+### Accounts
 
 What is an Account in <a href="Home">Hermes Moneymanager for Android?</a> Account is all places where we keep the money, such as banks, several institutions or even our pockets.<br>
 
@@ -79,16 +79,18 @@ For a correct management you must have the correct balance for the account you a
 
 The <strong>Status</strong> of the account can be set to "Open" or "Closed". Closed accounts are those no longer active. The setting of this state is only one way to simplify the vision. When you start the application displays all the Accounts, but you can make it visible only open account by setting "View open accounts" (Manage → Settings → Display)
 
-<strong>Currency</strong>: You can set the currency associated with the account and can be different to the base currency. The exchange rate of the currency can be changed using the menu: Manage → Currency
+### <strong>Currency</strong>: 
+
+You can set the currency associated with the account and can be different to the base currency. The exchange rate of the currency can be changed using the menu: Manage → Currency
 
 Once you have created an account, you can edit any of the account information fields using the menu: Manage → Account. A list of your accounts will appear, and holding on an account you can choose to edit or delete it.
 
 
-☆ <b>PAYEES AND CATEGORIES</b>
+## PAYEES AND CATEGORIES
 Categories indicate the reason an expenditure is made or an income is received. Payees are the people or the institutions that give money or who are paid for goods and services.
 
 
-## <a name="Payees"></a>Payees
+### Payees
 
 What is Payee for <a href="Home">Hermes Moneymanager for Android</a>? The payee is a subject (person, company or organization) to whom the money goes or comes from.
 <p></p>
@@ -100,56 +102,56 @@ To edit or delete a Payee hold on the desired Payee will open a context menu wit
 
 
 
-☆ <b>TRANSACTIONS</b>
+## TRANSACTIONS
 
 Overview of all income and expenses: separate and highlight records with different statuses. Search, filter, and sort by any field to have a clear view of your accounts at any time.
 
 
-## <a name="Transaction_Filter"></a>Transaction Filter
+### Transaction Filter
 
 <a href="Home">Hermes Moneymanager for Android</a> allows you to search for transactions by setting the criteria, such as from date to date, all transactions of an account, transactions by state, by amount or notes.
  
-☆ <b>RECURRING TRANSACTIONS</b>
+### RECURRING TRANSACTIONS
 Special transactions set up in order to have the transaction entered into the database at some future date. They generally occur at regular intervals based on a schedule.
 
 
 
-☆ <b>STOCKS</b>
+## STOCKS
 Track stocks/mutual fund investments grouping them in specific account. Automatically update the portfolio downloading quotes from the preferred website.
 
 
-☆ <b>ASSETS</b>
+## ASSETS
 Track fixed assets and incorporate them within total financial worth. Every single asset could be undervalued/increased by a specific rate per year or left unchanged.
 
 
-☆ <b>ASSET ALLOCATION</b>
+### ASSET ALLOCATION
 Create your preferred allocation and track progress by updating the security prices online.
 
-☆ <b>BUDGETING</b>
+## BUDGETING
 Set up a budget for a year and/or a month. Then compare money spent versus actual budget with specific or custom reports. On Android we currently support a read-only view of the Budgets.
 
-☆ <b>CROSS PLATFORM</b>
+## CROSS PLATFORM
 We provide builds for the most common operating systems: Windows, MacOS and Linux Ubuntu. It's possible to use it also on other OS building it directly from source code.
 
-☆ <b>CLOUD SYNCHRONIZATION</b>
+## CLOUD SYNCHRONIZATION
 With cloud synchronization you can keep your expenses and income up-to-date on your PCs, notebooks, and all of your Android devices. Using common cloud storage providers, you can share your data with other family members.
 
-☆ <b>MULTI-LANGUAGE</b>
+## MULTI-LANGUAGE
 If you want to join our translation team: https://crowdin.net/project/  and sign in.
 
 
-#### What will be done
+# What will be done
 * Database encryption
 * Stocks
 * Investments
 * Attachements
 
-#### Links
+# Links
 
 [![Hermes Moneymanager for Android on PlayStore](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](http://play.google.com/store/apps/details?id=org.financeapps.hermesmoneymanager)
 
 
-#### Contributing
+# Contributing
 
 There are several ways you can contribute to the project:
 
@@ -158,14 +160,14 @@ There are several ways you can contribute to the project:
 - beta testing
 - donations
 
-#### Translate
+# Translate
 
 If you want to join our translation team: [Hermes Moneymanager for Android on Crowdin.net](https://crowdin.net/project/android-money-manager-ex)
 
-☆ <b>BETA VERSION</b>
+# BETA VERSION
 You can also try the latest version from https://play.google.com/store/apps/details?id=org.financeapps.hermesmoneymanager.beta. It can be installed in parallel with the stable version. Using this you can assist with testing the latest releases.
 
-#### Beta Testing
+## Beta Testing
 
 You can install the Beta version from [Google Play](https://play.google.com/store/apps/details?id=org.financeapps.hermesmoneymanager.beta) in parallel to the stable version, and help us out testing the app before it reaches the Stable channel.
 
@@ -177,7 +179,7 @@ To build the project, the following settings are recommended:
 - use embedded JDK,
 - use gradle wrapper.
 
-## Continuous Integration
+##Continuous Integration
 
 Travis CI build is active for the project. It runs a build on every check-in and a pull request. Sometimes it fails when the new build tools are introduced in the project but not on Travis.
 
