@@ -7,11 +7,11 @@ Dev [![Build Status](https://travis-ci.org/hermesmoneymanager/hmm.svg?branch=dev
 Stable [![Build Status](https://travis-ci.org/hermesmoneymanager/hmm.svg?branch=master)](https://travis-ci.org/hermesmoneymanager/hmm)
 
 
-[Title]
-Hermes Moneymanager for Android
+#### Title: Hermes Moneymanager for Android
 
 
-[Short Description]
+#### Short Description
+
 Manage your income and expenses on a mobile device, synchronize via cloud
 
 
@@ -24,7 +24,7 @@ It maintains the best features of its sisters' Desktop applications, while addin
 
 
 
-####What is done####
+#### What is done 
 
 * Management of single transactions
 * Account, payee, category, currency management
@@ -36,7 +36,7 @@ It maintains the best features of its sisters' Desktop applications, while addin
 * Different languages ​​supported. 
 
 
-[Full Description]
+#### Full Description
 
 <b>Hermes Moneymanager</b> is a free, Open Source, cross-platform, easy-to-use personal finance software. It primarily helps organize one's finances and keeps track of where, when and how the money flows. It is a great tool to get a bird's eye view of your financial worth.
 
@@ -49,6 +49,7 @@ Think of Hermes Moneymanager and <strong><a href="Home">Hermes Moneymanager for 
 
 <strong>With <a href="Home">Hermes Moneymanager for Android</a>, and synchronization via Dropbox, you can keep under control your finances, no matter where you will find.</strong>
 <p></p>
+
 
 
 
@@ -100,6 +101,7 @@ To edit or delete a Payee hold on the desired Payee will open a context menu wit
 
 
 ☆ <b>TRANSACTIONS</b>
+
 Overview of all income and expenses: separate and highlight records with different statuses. Search, filter, and sort by any field to have a clear view of your accounts at any time.
 
 
@@ -114,6 +116,8 @@ Special transactions set up in order to have the transaction entered into the da
 
 ☆ <b>STOCKS</b>
 Track stocks/mutual fund investments grouping them in specific account. Automatically update the portfolio downloading quotes from the preferred website.
+
+
 ☆ <b>ASSETS</b>
 Track fixed assets and incorporate them within total financial worth. Every single asset could be undervalued/increased by a specific rate per year or left unchanged.
 
@@ -134,13 +138,13 @@ With cloud synchronization you can keep your expenses and income up-to-date on y
 If you want to join our translation team: https://crowdin.net/project/  and sign in.
 
 
-####What will be done####
+#### What will be done
 * Database encryption
 * Stocks
 * Investments
 * Attachements
 
-####Links####
+#### Links
 
 [![Hermes Moneymanager for Android on PlayStore](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](http://play.google.com/store/apps/details?id=org.financeapps.hermesmoneymanager)
 
